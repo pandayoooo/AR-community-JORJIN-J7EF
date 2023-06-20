@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="paint_treeroots" size="1.000000 0.491109" />
+    <ImageTarget name="paint_wheatfield" size="1.000000 0.467849" />
+    <ImageTarget name="paint_church" size="1.000000 1.291094" />
+    <ImageTarget name="paint_starrynight" size="1.000000 0.791789" />
+    <ImageTarget name="paint_potato" size="1.000000 0.710526" />
+    <ImageTarget name="paint_blossom" size="1.000000 0.790051" />
+    <ImageTarget name="paint_selfie" size="1.000000 1.254777" />
+    <ImageTarget name="paint_cafe" size="1.000000 1.245675" />
+    <ImageTarget name="paint_bandaged" size="1.000000 1.215532" />
+    <ImageTarget name="paint_irises" size="1.000000 0.764331" />
+    <ImageTarget name="paint_flower" size="1.000000 1.261682" />
+  </Tracking>
+</QCARConfig>
